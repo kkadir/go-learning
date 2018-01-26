@@ -1,9 +1,3 @@
-/*
-	This program prints molecular information for known metalloids
-	including atomic number, mass, and atom count found
-	in 100 grams of each element using the mole unit.
-	See http://en.wikipedia.org/wiki/Mole_(unit)
-*/
 package main
 
 import "fmt"
